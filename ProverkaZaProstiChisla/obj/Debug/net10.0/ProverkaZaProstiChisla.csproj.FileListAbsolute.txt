@@ -1,0 +1,15 @@
+C:\Users\katri\Documents\Homework\ProverkaZaProstiChisla\ProverkaZaProstiChisla\bin\Debug\net10.0\ProverkaZaProstiChisla.exe
+C:\Users\katri\Documents\Homework\ProverkaZaProstiChisla\ProverkaZaProstiChisla\bin\Debug\net10.0\ProverkaZaProstiChisla.deps.json
+C:\Users\katri\Documents\Homework\ProverkaZaProstiChisla\ProverkaZaProstiChisla\bin\Debug\net10.0\ProverkaZaProstiChisla.runtimeconfig.json
+C:\Users\katri\Documents\Homework\ProverkaZaProstiChisla\ProverkaZaProstiChisla\bin\Debug\net10.0\ProverkaZaProstiChisla.dll
+C:\Users\katri\Documents\Homework\ProverkaZaProstiChisla\ProverkaZaProstiChisla\bin\Debug\net10.0\ProverkaZaProstiChisla.pdb
+C:\Users\katri\Documents\Homework\ProverkaZaProstiChisla\ProverkaZaProstiChisla\obj\Debug\net10.0\ProverkaZaProstiChisla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katri\Documents\Homework\ProverkaZaProstiChisla\ProverkaZaProstiChisla\obj\Debug\net10.0\ProverkaZaProstiChisla.AssemblyInfoInputs.cache
+C:\Users\katri\Documents\Homework\ProverkaZaProstiChisla\ProverkaZaProstiChisla\obj\Debug\net10.0\ProverkaZaProstiChisla.AssemblyInfo.cs
+C:\Users\katri\Documents\Homework\ProverkaZaProstiChisla\ProverkaZaProstiChisla\obj\Debug\net10.0\ProverkaZaProstiChisla.csproj.CoreCompileInputs.cache
+C:\Users\katri\Documents\Homework\ProverkaZaProstiChisla\ProverkaZaProstiChisla\obj\Debug\net10.0\ProverkaZaProstiChisla.dll
+C:\Users\katri\Documents\Homework\ProverkaZaProstiChisla\ProverkaZaProstiChisla\obj\Debug\net10.0\refint\ProverkaZaProstiChisla.dll
+C:\Users\katri\Documents\Homework\ProverkaZaProstiChisla\ProverkaZaProstiChisla\obj\Debug\net10.0\ProverkaZaProstiChisla.pdb
+C:\Users\katri\Documents\Homework\ProverkaZaProstiChisla\ProverkaZaProstiChisla\obj\Debug\net10.0\ProverkaZaProstiChisla.genruntimeconfig.cache
+C:\Users\katri\Documents\Homework\ProverkaZaProstiChisla\ProverkaZaProstiChisla\obj\Debug\net10.0\ref\ProverkaZaProstiChisla.dll
+C:\Users\katri\Documents\Homework\ProverkaZaProstiChisla\ProverkaZaProstiChisla\obj\Debug\net10.0\Proverka.840D2D45.Up2Date
